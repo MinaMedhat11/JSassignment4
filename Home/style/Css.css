@@ -1,0 +1,16 @@
+body{
+    background-color: #24353f;
+}
+#navbar{
+    background-color: #24353f !important;
+    color: white;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+
+}
+.text h2{
+    color: #17a2b8;
+}
+.text{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+
+}
